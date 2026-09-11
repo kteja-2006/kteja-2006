@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./profile-banner.webp" width="100%" alt="Katta Teja - Build Learn Improve">
+<img src="./profile-banner.webp" width="100%" height="280" alt="Katta Teja - Build Learn Improve">
 
-<br><br>
-</div>
+</div>  
