@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="./profile-banner.webp" width="100%" height="280" alt="Katta Teja - Build Learn Improve">
+
+</div>  
+
+
+<br>
+
 <br>
 
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
