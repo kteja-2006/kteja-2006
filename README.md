@@ -11,8 +11,19 @@
 <tr>
 <td>
 
-<div> <h2 align="left">〈/〉 &nbsp; Tech Stack</h2> <align="right"> Tools I work with and explore </div>
+<table width="100%" border="0">
+<tr>
 
+<td align="left">
+<h2>〈/〉 &nbsp; Tech Stack</h2>
+</td>
+
+<td align="right">
+<sub>Tools I work with and explore</sub>
+</td>
+
+</tr>
+</table>
 <hr>
 
 <br>
