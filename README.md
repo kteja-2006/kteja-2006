@@ -11,7 +11,10 @@
 <tr>
 <td>
 
-<h2>〈/〉 &nbsp; Tech Stack &nbsp;&nbsp; <sub>Tools I work with and explore</sub></h2>
+<div style="display: flex; justify-content: space-between;">
+    <span>This sentence is on the left side.</span>
+    <span>This sentence is on the right side.</span>
+</div>
 <br>
 
 <table width="100%" border="0" cellpadding="5" cellspacing="4">
