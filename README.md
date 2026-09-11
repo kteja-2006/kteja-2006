@@ -6,26 +6,21 @@
 
 
 <br>
-
 <br>
 
-<table width="100%" border="1" cellpadding="12" cellspacing="0">
+<table width="100%" border="1" cellpadding="14" cellspacing="0">
 <tr>
 <td>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="4" cellspacing="0">
 <tr>
 
-<td align="left">
-
+<td align="left" width="70%">
 <h2>〈/〉 &nbsp; Tech Stack</h2>
-
 </td>
 
-<td align="right">
-
+<td align="right" width="30%">
 <sub>Tools I work with and explore</sub>
-
 </td>
 
 </tr>
@@ -33,77 +28,57 @@
 
 <br>
 
-<table width="100%" border="0" cellpadding="8" cellspacing="6">
+<table width="100%" border="0" cellpadding="4" cellspacing="4">
 <tr>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=java" width="45"><br>
 <sub><b>Java</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=python" width="45"><br>
 <sub><b>Python</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=html" width="45"><br>
 <sub><b>HTML</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=css" width="45"><br>
 <sub><b>CSS</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=javascript" width="45"><br>
 <sub><b>JavaScript</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=mysql" width="45"><br>
 <sub><b>SQL</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="./powerbi.png" width="45"><br>
 <sub><b>Power BI</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=git" width="45"><br>
 <sub><b>Git</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=github" width="45"><br>
 <sub><b>GitHub</b></sub>
-
 </td>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
-
 <img src="https://skillicons.dev/icons?i=vscode" width="45"><br>
 <sub><b>VS Code</b></sub>
-
 </td>
 
 </tr>
