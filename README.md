@@ -5,30 +5,23 @@
 </div>  
 
 
-<br>
-<br>
+<br><br>
 
 <table width="100%" border="1" cellpadding="14" cellspacing="0">
 <tr>
 <td>
 
-<table width="100%" border="0" cellpadding="4" cellspacing="0">
-<tr>
+<h2 align="left">〈/〉 &nbsp; Tech Stack</h2>
 
-<td align="left" width="70%">
-<h2>〈/〉 &nbsp; Tech Stack</h2>
-</td>
-
-<td align="right" width="30%">
+<div align="right">
 <sub>Tools I work with and explore</sub>
-</td>
+</div>
 
-</tr>
-</table>
+<hr>
 
 <br>
 
-<table width="100%" border="0" cellpadding="4" cellspacing="4">
+<table width="100%" border="0" cellpadding="5" cellspacing="4">
 <tr>
 
 <td align="center" width="10%" style="border:1px solid #30363d;">
