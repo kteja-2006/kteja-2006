@@ -14,7 +14,7 @@
 <h2 align="left">〈/〉 &nbsp; Tech Stack</h2>
 
 <div align="right">
-<sub>Tools I work with and explore</sub>
+Tools I work with and explore
 </div>
 
 <hr>
