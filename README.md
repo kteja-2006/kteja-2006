@@ -7,7 +7,7 @@
 
 <br><br>
 
-<table width="100%" border="1" cellpadding="14" cellspacing="0">
+<table width="100%" border="0" cellpadding="14" cellspacing="0">
 <tr>
 <td>
 
