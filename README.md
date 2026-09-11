@@ -6,25 +6,33 @@
 
 ### `CODE  >  EXPLORE  >  CREATE  >  REPEAT`
 
-**Aspiring Software Developer** · **Student** · **Tech Enthusiast**
+**Aspiring Software Developer** &nbsp;•&nbsp; **Student** &nbsp;•&nbsp; **Tech Enthusiast**
 
 *Turning ideas into real-world solutions.*
 
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-kteja--2006-0b1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kteja-2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Katta%20Teja-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/katta-teja)
+[![Email](https://img.shields.io/badge/Email-kteja2006%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kteja2006@gmail.com)
+
 </div>
 
 <br>
 
 ---
-
-## `</> TECH STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" alt="Tech Stack">
+## `</> TECH STACK`
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" width="85%" alt="Technologies">
 
 <br><br>
 
-`Java` · `Python` · `HTML` · `CSS` · `JavaScript` · `SQL` · `Power BI` · `Git` · `GitHub`
+`JAVA` &nbsp; `PYTHON` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JAVASCRIPT` &nbsp; `SQL`
+
+`POWER BI` &nbsp; `GIT` &nbsp; `GITHUB` &nbsp; `VS CODE`
 
 </div>
 
@@ -32,36 +40,48 @@
 
 ---
 
-## `🚀 FEATURED PROJECTS`
+<div align="center">
+
+## `🚀 FEATURED WORK`
+
+</div>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Stock Market Analysis
+### `📊 01 / STOCK MARKET`
 
-Stock market data analysis and visualization using **Power BI**.
+**Stock Market Analysis — Power BI**
 
-`Power BI` · `Data Analysis` · `Visualization`
+Data analysis and visualization project focused on stock market data.
+
+**Stack**
+
+`Power BI` `Data Analysis` `Visualization`
 
 <br>
 
-**→ [Explore Project](https://github.com/kteja-2006/Stock-Market-Analysis-PowerBI)**
+[**VIEW PROJECT →**](https://github.com/kteja-2006/Stock-Market-Analysis-PowerBI)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍽️ Restaurant
+### `🍽️ 02 / RESTAURANT`
 
-A restaurant website project with a modern web interface.
+**Restaurant Web Project**
 
-`HTML` · `Web Development`
+A web development project focused on a modern restaurant interface.
+
+**Stack**
+
+`HTML` `Web Development`
 
 <br>
 
-**→ [Explore Project](https://github.com/kteja-2006/restaurant)**
+[**VIEW PROJECT →**](https://github.com/kteja-2006/restaurant)
 
 </td>
 
@@ -69,31 +89,39 @@ A restaurant website project with a modern web interface.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+### `🌐 03 / PORTFOLIO`
 
-A personal portfolio project showcasing my work and development journey.
+**Personal Portfolio**
 
-`HTML` · `Web Development`
+A personal portfolio project showcasing my work, skills and development journey.
+
+**Stack**
+
+`HTML` `Web Development`
 
 <br>
 
-**→ [Explore Project](https://github.com/kteja-2006/Personal_Portfolio)**
+[**VIEW PROJECT →**](https://github.com/kteja-2006/Personal_Portfolio)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Student Portal
+### `🎓 04 / STUDENT PORTAL`
 
-A student-focused web development project.
+**Student Portal**
+
+A student-focused web development project and interface experiment.
+
+**Stack**
 
 `Web Development`
 
 <br>
 
-**→ [Explore Project](https://github.com/kteja-2006/student-portal-demo)**
+[**VIEW PROJECT →**](https://github.com/kteja-2006/student-portal-demo)
 
 </td>
 
@@ -104,93 +132,102 @@ A student-focused web development project.
 
 ---
 
-## `📈 GITHUB ACTIVITY`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kteja-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" height="170" alt="GitHub Statistics">
+## `📈 GITHUB ACTIVITY`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteja-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages">
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kteja-2006&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&rank_icon=github" width="48%" alt="GitHub Statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteja-2006&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" alt="Top Languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kteja-2006&theme=tokyonight&hide_border=true&background=00000000" width="60%" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=kteja-2006&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF" width="60%" alt="GitHub Streak">
 
 </div>
 
 <br>
 
 ---
-
-## `🧠 CURRENTLY LEARNING`
-
-<div align="center">
 
 <table>
 <tr>
-<td align="center">🔵</td>
-<td><b>Advanced Java</b></td>
-</tr>
 
-<tr>
-<td align="center">🔵</td>
-<td><b>Data Analysis & Visualization</b></td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td align="center">🔵</td>
-<td><b>Web Development</b></td>
-</tr>
-
-<tr>
-<td align="center">🔵</td>
-<td><b>Real-world Software Projects</b></td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-## `🎯 GOALS`
-
-<div align="center">
+## `🧠 CURRENTLY LEARNING`
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  ○ Build impactful projects                 │
-│                                              │
-│  ○ Improve problem-solving                  │
-│                                              │
-│  ○ Contribute to open source                │
-│                                              │
-│  ○ Grow into a strong software developer    │
-│                                              │
-└──────────────────────────────────────────────┘ 
-</div> <br>
-🏆 CERTIFICATIONS
-<div align="center">
+◉ Advanced Java
 
-My completed certifications and learning journey.
+◉ Data Analysis
+  & Visualization
+
+◉ Web Development
+
+◉ Real-world
+  Software Projects
+</td> <td width="50%" valign="top">
+🎯 GOALS
+○ Build impactful projects
+
+○ Improve
+  problem-solving
+
+○ Contribute to
+  open source
+
+○ Become a strong
+  software developer
+</td> </tr> </table> <br>
+<div align="center">
+🏆 CERTIFICATIONS
+<br>
+LEARN • BUILD • CERTIFY • GROW
+<br>
+
+My completed technical certifications and courses.
 
 <br>
-🎓 VIEW MY CERTIFICATIONS →
+
 </div> <br>
+<div align="center">
 🤝 CONNECT WITH ME
-<div align="center"> <a href="https://github.com/kteja-2006"> <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/katta-teja"> <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"> </a> <a href="mailto:kteja2006@gmail.com"> <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"> </a> </div>
+<br>
+
+Let's build something meaningful together.
+
+<br> <a href="https://github.com/kteja-2006"> <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"> </a>
+
+ 
+
+<a href="https://www.linkedin.com/in/katta-teja"> <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
+
+ 
+
+<a href="mailto:kteja2006@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"> </a> </div>
 
 <br><br>
 
 <div align="center">
-╭──────────────────────────────────────────────╮
-│                                              │
-│       SMALL PROGRESS EVERY DAY               │
-│                 ↓                            │
-│       BIG RESULTS TOMORROW                   │
-│                                              │
-╰──────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────╮
+│                                                  │
+│          SMALL PROGRESS EVERY DAY               │
+│                       ↓                          │
+│          BIG RESULTS TOMORROW                    │
+│                                                  │
+╰──────────────────────────────────────────────────╯
+<br>
+
+DISCIPLINE TODAY \ A BETTER TOMORROW
+
+<br><br>
+
 Thanks for visiting my profile! ✨
+<br>
+
+BUILD • LEARN • IMPROVE
+
 </div> ```
