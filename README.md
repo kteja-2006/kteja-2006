@@ -11,11 +11,7 @@
 <tr>
 <td>
 
-<h2 align="left">〈/〉 &nbsp; Tech Stack</h2>
-
-<div align="right">
-Tools I work with and explore
-</div>
+<h2 align="left">〈/〉 &nbsp; Tech Stack</h2>&nbsp; <div align="right"> Tools I work with and explore </div>
 
 <hr>
 
