@@ -11,15 +11,7 @@
 <tr>
 <td>
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-
-<h2>〈/〉 &nbsp; Tech Stack</h2>
-
-<span>Tools I work with and explore</span>
-
-</div>
-<hr>
-
+<h2>〈/〉 &nbsp; Tech Stack &nbsp;&nbsp; <sub>Tools I work with and explore</sub></h2>
 <br>
 
 <table width="100%" border="0" cellpadding="5" cellspacing="4">
