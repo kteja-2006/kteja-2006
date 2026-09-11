@@ -11,7 +11,7 @@
 <tr>
 <td>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; space-between: space-between;">
     <span>This sentence is on the left side.</span>
     <span>This sentence is on the right side.</span>
 </div>
